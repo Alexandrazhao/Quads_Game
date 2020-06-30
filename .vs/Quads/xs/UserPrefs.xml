@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BD7B5119-278D-FF1F-4828-3264259E4BF9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CardMotion.cs">
+    <Files>
+      <File FileName="Assets/MouseClick_pp2.cs" Line="12" Column="4" />
+      <File FileName="Assets/MouseClick 2.cs" Line="23" Column="4" />
+      <File FileName="Assets/CardMotion.cs" Line="18" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Quads" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CardMotion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4dfea10-9f0b-4926-b261-3dc7c8496337" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
